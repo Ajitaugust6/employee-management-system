@@ -32,5 +32,4 @@ A full-stack Spring Boot web application with REST API built as part of B.Tech C
 4. Open `http://localhost:8080/signup`
 
 ## Author
-**Ajit Singh K** | Batch 4 | RA2311032020032  
-B.Tech CSE (IoT) — SRM Institute of Science and Technology
+**Ajit Singh K** 
